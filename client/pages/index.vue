@@ -24,6 +24,7 @@ export default {
     data() {
         return {
             pData: [
+                { path: 'portfolio/bok', title: '박물관사이트 리뉴얼', thum: 'https://i.ibb.co/Sc5vcy2/bok-thum.jpg' },
                 { path: 'portfolio/site', title: '포트폴리오 사이트 구축', thum: 'https://i.ibb.co/tYh2X9Z/site-thum.jpg' },
                 { path: 'portfolio/yeonje', title: '병원사이트 리뉴얼', thum: 'https://i.ibb.co/7NYnMP8/yeonje-thum.jpg' },
                 { path: 'portfolio/aoi', title: '플로리스트 홍보사이트', thum: 'https://i.ibb.co/DzRbw7h/aoi-thum.jpg' },
