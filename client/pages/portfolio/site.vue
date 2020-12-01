@@ -2,7 +2,7 @@
     <section class="portfolio-detail">
         <div class="pf-detail-inner">
             <div class="img">
-                <img src="https://i.ibb.co/GxTmP3R/site-content02.jpg" alt="포트폴리오 메인시안">
+                <img src="https://i.ibb.co/GFvPngK/site-content02.jpg" alt="포트폴리오 메인시안">
             </div>
             <ul class="pf-info">
                 <li>
