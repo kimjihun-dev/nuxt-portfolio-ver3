@@ -22,3 +22,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 demo : https://kimjihun.netlify.app/
 
+<img src="https://i.ibb.co/GFvPngK/site-content02.jpg" width="60%">
