@@ -19,11 +19,11 @@
                 </li>
                 <li>
                     <span>view code</span>
-                    <a href="#!" target="_blank">github</a>
+                    <a href="https://github.com/kimjihun-dev/nuxt-portfolio-ver3" target="_blank">github</a>
                 </li>
                 <li>
                     <span>view site</span>
-                    <a href="#!" target="_blank">demo</a>
+                    <a href="https://kimjihun.netlify.app" target="_blank">demo</a>
                 </li>
             </ul>
             <div class="pf-detail">
