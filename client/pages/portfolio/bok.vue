@@ -19,11 +19,11 @@
                 </li>
                 <li>
                     <span>view code</span>
-                    <a href="#!" target="_blank">github</a>
+                    <a href="https://github.com/kimjihun-dev/bokcheon" target="_blank">github</a>
                 </li>
                 <li>
                     <span>view site</span>
-                    <a href="#!" target="_blank">demo</a>
+                    <a href="https://kimjihun-dev.github.io/bokcheon" target="_blank">demo</a>
                 </li>
             </ul>
             <div class="pf-detail">
